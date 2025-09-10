@@ -1,9 +1,0 @@
-{
-  "name": "Laravel 7",
-  "image": "mcr.microsoft.com/vscode/devcontainers/php:7.4",
-  "features": {
-    "mysql": "latest",
-    "composer": "latest"
-  },
-  "forwardPorts": [8000]
-}
